@@ -13,9 +13,12 @@ Connect with me:
 • Feel free to reach out to discuss AI, social media, cybersecurity, or any related topics that spark your interest.
 
 • Follow me on my journey to learn the latest trends and innovations in AI, social media, and cybersecurity.
+![AJT Logo v2 Transparent Small](https://github.com/user-attachments/assets/9dcb1406-73ff-47b9-8388-b62720678123)
+
 
 <!---
 FastWReX/FastWReX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![AJT_Logo_v2-removebg](https://github.com/user-attachments/assets/3be9fe45-d01b-4e46-ab88-a6e3a0046125)
+
+
